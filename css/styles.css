@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+p {
+    width: 40vw;
+    margin: auto;
+}
+
+lottie-player {
+    margin: auto;
+    background-color: pink;
+}
